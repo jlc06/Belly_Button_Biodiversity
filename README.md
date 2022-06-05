@@ -1,1 +1,3 @@
-# Belly_Button_Biodiversity
+# Belly Button Biodiversity
+## Purpose
+After helping Roza partially complete her interactive dashboard and demographic information panel of volunteers in the bacteria study, we wanted to turn the dashboard into a more visual experience. We decided to create visualizations and graphs that can help the volunteers identify the top 10 bacterial species in their own belly buttons. We knew if Improbable Beef eventually identifies a bacteria species as a candidate to manufacture synthetic beef, the volunteers will be able to identify whether that species is found in their navel and can reap the rewards of their natural bodily biome. 
